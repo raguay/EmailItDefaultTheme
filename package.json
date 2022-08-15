@@ -1,0 +1,17 @@
+{
+  "name": "Default-ThemeEmailIt",
+  "version": "1.0.0",
+  "description": "The default Dracula Buffy theme for EmailIt.",
+  "keywords": [
+    "emailit", "theme"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "theme": {
+    "name": "Default-ThemeEmailIt",
+    "description": "The default Dracula Buffy theme for EmailIt.",
+    "type": 0,
+    "github": "",
+    "main": "Default.json"
+  }
+}
