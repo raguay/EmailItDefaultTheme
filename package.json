@@ -11,7 +11,7 @@
     "name": "Default-ThemeEmailIt",
     "description": "The default Dracula Buffy theme for EmailIt.",
     "type": 0,
-    "github": "",
+    "github": "https://github.com/raguay/EmailItDefaultTheme",
     "main": "Default.json"
   }
 }
